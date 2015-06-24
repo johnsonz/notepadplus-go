@@ -62,9 +62,10 @@ Notepad++ keyword auto-completion
 
 Screenshots
 -----------
-
-![](https://raw.githubusercontent.com/chai2010/notepadplus-go/master/screenshot.png)
-
+Default:
+![](https://github.com/johnsonz/notepadplus-go/blob/master/screenshot.png)
+Style1:
+![](https://github.com/johnsonz/notepadplus-go/blob/master/screenshot_style1.png)
 BUGS
 ----
 
